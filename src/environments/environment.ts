@@ -1,0 +1,1 @@
+export const environments = { baseURL: 'https://ngrx-user-mgmt-backend.onrender.com/' };
